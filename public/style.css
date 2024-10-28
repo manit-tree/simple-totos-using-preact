@@ -1,0 +1,22 @@
+@layer rest {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    html, body {
+        height: 100%;
+    }
+}
+
+@layer base-color {
+    :root {
+        --bg-color: #121212;
+        --text-color: #ccc;
+    }
+}
+
+body {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
