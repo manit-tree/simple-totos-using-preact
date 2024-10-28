@@ -1,7 +1,6 @@
 {
-  "name": "90",
-  "description": "Development template for Preact Application",
-  "private": true,
+  "name": "simple totos using preact",
+  "description": "Mini project for learning Preact",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
