@@ -2,6 +2,10 @@
 
 Mini project for learning Preact
 
+### Screenshot
+
+![image](https://github.com/user-attachments/assets/b3aecb6e-39d8-4118-b3de-29ce2c2634f3)
+
 ### app.jsx
 
 ```jsx
